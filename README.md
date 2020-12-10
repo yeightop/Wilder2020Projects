@@ -21,16 +21,22 @@ I am turning in GuessWho EARLY(12/9-11.01pm)
 ---------------------------------------------------------------------------------------------------------------------------
 
 PASSWORD MANAGER-----------------------------------------------------------------------------------------------------------
-Nate combined our code for the most part so refer to him for what files are important
-I made our user login and file creation system
-We struggle a little bit with getting a password generator from Pat
-I believe it is very good and meets most if not all of the reqirements
-I also could not get in contact with Nate after he got off work 12/10 so I had to submit what he last pushed since he was the compiler
+  Nate combined our code for the most part so refer to him for what files are important
+  
+  I made our user login and file creation system
+  
+  We struggle a little bit with getting a password generator from Pat
+  
+  I believe it is very good and meets most if not all of the reqirements
+  
+  I also could not get in contact with Nate after he got off work 12/10 so I had to submit what he last pushed since he was the compiler
 
 ---------------------------------------------------------------------------------------------------------------------------
 GDRITYS--------------------------------------------------------------------------------------------------------------------
 This may be the lowest quality one
+
 -I set up the nav drawer activity and did the main welcome screen, the Sandwich meanu, Ice Cream Scream menu and the checkout menu | Pat was responsible for the Chili, Salad & Others, Sides | Nate was out guy for passing information betweeb the menus because he was the one in our group that understood it the best.
+
 - I couldnt get a hold of nate on the due date and had to grab the most recent one which is pretty much the parts that I did because we hadnt gotten the chance to combined our code yet
 ---------------------------------------------------------------------------------------------------------------------------
 MadLib---------------------------------------------------------------------------------------------------------------------
