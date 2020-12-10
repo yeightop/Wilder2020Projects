@@ -1,3 +1,6 @@
+HUNTER WILDER PROJECTS
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 GUESSWHO-------------------------------------------------------------------------------------------------------------------
 Only files needed: GuessWho.java, CharacterList.java, Character.java, RandomPermutation.java, AlteredSW.txt
