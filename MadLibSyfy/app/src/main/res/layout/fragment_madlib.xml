@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.madlib.MadlibFragment">
+    ​
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+                ​
+
+                ​
+
+                <EditText
+                    android:id="@+id/txtName0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Name"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtSup0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Superlative"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtnoun0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Noun"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtnoun1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Noun"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Verb"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtevent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Event"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Verb"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Verb"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Day of the Week"
+                    android:inputType="textPersonName"
+                    tools:ignore="DuplicateIds" />
+
+                <EditText
+                    android:id="@+id/txtweekD"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Verb"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="34dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Verb"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtverb4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Place"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txtplace"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Time Span"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/txttimeSpan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="33dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:hint="Name"
+                    android:inputType="textPersonName" />
+
+                <Button
+                    android:id="@+id/btnSubmit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+
+                    android:text="Submit" />
+
+                <TextView
+                    android:id="@+id/txtOutput"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="output" />
+
+                ​
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    ​
+
+    ​
+
+    ​
+
+    ​
+
+    ​
+
+    ​
+
+    ​
+    ​
+    ​
+    ​
+    ​
+    ​
+
+    ​
+
+
+    ​
+</LinearLayout>
