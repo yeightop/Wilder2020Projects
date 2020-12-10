@@ -1,3 +1,5 @@
+
+GUESSWHO------------------------------------------------------------------------------------------------------------------
 Only files needed: GuessWho.java, CharacterList.java, Character.java, RandomPermutation.java, AlteredSW.txt
 Runner File: GuessWho.java
 
@@ -15,3 +17,5 @@ Small Problems:
   -When versing the computer and you ask a question it will tell you that you asked that question and to say if its true or not(just hit enter for this)
 
 I am turning in GuessWho EARLY(12/9-11.01pm)
+---------------------------------------------------------------------------------------------------------------------------
+
