@@ -1,4 +1,7 @@
-Only files needed: GuessWho.java
+Only files needed: GuessWho.java, CharacterList.java, Character.java, RandomPermutation.java, AlteredSW.txt
+Runner File: Guesswho.java
+
+Note: coded in repl so I didnt want to delete anything if I couldnt test it after(paranoid i guess)
 
 Code all commented
 The game runs, functons, and ends
