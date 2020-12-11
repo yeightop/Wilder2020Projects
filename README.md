@@ -46,11 +46,16 @@ This may be the lowest quality one
 
 -I set up the nav drawer activity and did the main welcome screen, the Sandwich meanu, Ice Cream Scream menu and the checkout menu | Pat was responsible for the Chili, Salad & Others, Sides | Nate was out guy for passing information betweeb the menus because he was the one in our group that understood it the best.
 
-- I couldnt get a hold of nate on the due date and had to grab the most recent one which is pretty much the parts that I did because we hadnt gotten the chance to combined our code yet
+-I didn't get anything from pat for the xml he was supposed to do and nate was able to get our data passing between screens working in time 
+
 ---------------------------------------------------------------------------------------------------------------------------
 MadLib---------------------------------------------------------------------------------------------------------------------
 
 I believe it should all be in order
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+
+In conclusion:
+We didn't communicate super well on these projects and it was difficult communicating with Pat since he was remote for so long. We all have different skill levels and understanding so it was hard to divide the work up.
 
