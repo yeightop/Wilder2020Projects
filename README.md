@@ -37,7 +37,7 @@ PASSWORD MANAGER----------------------------------------------------------------
   
   I believe it is very good and meets most if not all of the reqirements
   
-  I also could not get in contact with Nate after he got off work 12/10 so I had to submit what he last pushed since he was the compiler
+  I did complete my part and my user creation and login works fine but something goes wrong in the password generator that we werent able to fix in time
 
 ---------------------------------------------------------------------------------------------------------------------------
 GDRITYS--------------------------------------------------------------------------------------------------------------------
